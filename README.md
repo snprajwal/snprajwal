@@ -1,5 +1,4 @@
-[!
-[Prajwal's GitHub stats](
+[![Prajwal's GitHub stats](
 https://github-readme-stats.vercel.app/api?
 username=snprajwal&
 count_private=true&
